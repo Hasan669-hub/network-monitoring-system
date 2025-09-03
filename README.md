@@ -2,10 +2,10 @@
 A comprehensive article in Persian on Computer Network Monitoring and Analysis
 # تحلیل و طراحی یک سیستم نظارت بر شبکه‌های کامپیوتری
 
-[![GitHub issues](https://img.shields.io/github/issues/YourUsername/YourRepoName)](https://github.com/Hasan669/network-monitoring-system/issues)
-[![GitHub forks](https://img.shields.io/github/forks/YourUsername/YourRepoName)](https://github.com/Hasan669/network-monitoring-system/network)
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepoName)](https://github.com/Hasan669/network-monitoring-system/stargazers)
-[![GitHub license](https://img.shields.io/github/license/YourUsername/YourRepoName)](https://github.com/Hasan669/network-monitoring-system/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Hasan669/network-monitoring-system)](https://github.com/Hasan669/network-monitoring-system/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Hasan669/network-monitoring-system)](https://github.com/Hasan669/network-monitoring-system/network)
+[![GitHub stars](https://img.shields.io/github/stars/Hasan669/network-monitoring-system)](https://github.com/Hasan669/network-monitoring-system/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Hasan669/network-monitoring-system)](https://github.com/Hasan669/network-monitoring-system/blob/main/LICENSE)
 
 > یک مقاله جامع به زبان فارسی که مفاهیم پایه، ابزارها و روش‌های پیاده‌سازی یک سیستم نظارت و مدیریت شبکه (NMS) را از صفر تا صد آموزش می‌دهد.
 
